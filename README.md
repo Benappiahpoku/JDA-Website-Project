@@ -1,2 +1,2 @@
 # JDA
-A project management website 
+I developed a website for JDA, a project management company, utilizing the Bootstrap framework.
